@@ -1,7 +1,9 @@
 echo off
 
 echo Run CMake
-cd build
+
+
+cd ../build
 cmake ../src -G "MinGW Makefiles"
 
 echo Run Make
