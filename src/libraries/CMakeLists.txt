@@ -1,0 +1,4 @@
+add_subdirectory(dynamic_library)
+add_subdirectory(static_library)
+add_subdirectory(dependent_library_private)
+add_subdirectory(dependent_library_public)
