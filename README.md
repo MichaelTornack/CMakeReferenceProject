@@ -17,7 +17,7 @@ The purpose of this project is to give guidance how to set up a new CMake projec
 
 
 ## Execution
-- run clean.bat     
+- run clean.bat   (mandatory for first time)  
 - run build.bat
 - a runnable executable shall be displayed in bin/bin
 
